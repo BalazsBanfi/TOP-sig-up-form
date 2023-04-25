@@ -77,6 +77,11 @@ h3 {
     box-shadow: 0 0 5px #33f;
 }
 
+#password1, #password2 {
+    outline: none;
+    border: 1px solid #f33;
+}
+
 label {
     width: 20%;
     font-size: 1.25rem;
