@@ -90,6 +90,11 @@ label {
     display: inline-block;
 }
 
+#pwnot {
+    padding: 12px 12px 12px 0;
+    color: red;
+}
+
 #submit {
     font-size: large;
     display: block;
