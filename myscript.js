@@ -25,7 +25,7 @@ function myFunction2() {
 
 
 function compare(a, b) {
-    if (a === b) {
+    if (a === b && a !== '') {
         pwnot.innerHTML = "*Password match";
         document.getElementById("pwnot").style.color = "green";
         document.getElementById("password1").style.border = "1px solid green";
